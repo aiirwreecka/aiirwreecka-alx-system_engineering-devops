@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/psswd /etc/hosts
+less /etc/psswd /etc/hosts
